@@ -1,1 +1,1 @@
-# the venom symbiote in three.js
+# a metallic cube in three.js using a single typescript file 
